@@ -16,7 +16,7 @@ SQL (Oracle database)
 ✔️ User authentication
 
 # 🚀 Installation and Execution
-1️⃣ Prerequisites
+1️⃣ Prerequisites: 
 Python 3.x installed
 Streamlit installed (pip install streamlit)
 Access to Oracle APEX RESTful APIs
