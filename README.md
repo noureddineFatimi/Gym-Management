@@ -8,6 +8,7 @@ This project is a gym management application that allows managing members, train
 Python (Streamlit for the interface)
 Oracle APEX RESTful APIs (for data management)
 SQL (Oracle database)
+
 # 📦 Main Features
 ✔️ Member registration and management
 ✔️ Subscription and payment management
@@ -15,8 +16,4 @@ SQL (Oracle database)
 ✔️ Dashboard with statistics
 ✔️ User authentication
 
-# 🚀 Installation and Execution
-1️⃣ Prerequisites: 
-Python 3.x installed
-Streamlit installed (pip install streamlit)
-Access to Oracle APEX RESTful APIs
+
