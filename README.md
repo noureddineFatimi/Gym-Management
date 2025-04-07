@@ -19,7 +19,7 @@ SQL (Oracle database)
 <p align="center">
   <img src="screenshot(1).png" alt="Filter Jobs" width="700">
 </p>
-<p align="center"><em>Form of </em></p>
+<p align="center"><em>Form to fill a new session </em></p>
 
 
 # 📦 Main Features
