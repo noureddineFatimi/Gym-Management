@@ -15,11 +15,11 @@ SQL (Oracle database)
 </p>
 <p align="center"><em>Main page</em></p>
 
-## 🔎 Example of form data in the App
+## 🔎 Example of form
 <p align="center">
   <img src="screenshot(1).png" alt="Filter Jobs" width="700">
 </p>
-<p align="center"><em>Form</em></p>
+<p align="center"><em>Form of </em></p>
 
 
 # 📦 Main Features
