@@ -11,15 +11,15 @@ SQL (Oracle database)
 
 ## 🧩 Main Window Overview
 <p align="center">
-  <img src="screenshots/main_window.png" alt="Main Window" width="700">
+  <img src="screenshot.png" alt="Main Window" width="700">
 </p>
-<p align="center"><em>Central dashboard with navigation and key actions</em></p>
+<p align="center"><em>Main page</em></p>
 
-## 🔎 Filter and Display Job Ads
+## 🔎 Example of form data in the App
 <p align="center">
-  <img src="screenshots/filter_jobs.png" alt="Filter Jobs" width="700">
+  <img src="screenshot(1).png" alt="Filter Jobs" width="700">
 </p>
-<p align="center"><em>Search jobs using advanced filters</em></p>
+<p align="center"><em>Form</em></p>
 
 
 # 📦 Main Features
