@@ -9,6 +9,19 @@ Python (Streamlit for the interface)
 Oracle APEX RESTful APIs (for data management)
 SQL (Oracle database)
 
+## 🧩 Main Window Overview
+<p align="center">
+  <img src="screenshots/main_window.png" alt="Main Window" width="700">
+</p>
+<p align="center"><em>Central dashboard with navigation and key actions</em></p>
+
+## 🔎 Filter and Display Job Ads
+<p align="center">
+  <img src="screenshots/filter_jobs.png" alt="Filter Jobs" width="700">
+</p>
+<p align="center"><em>Search jobs using advanced filters</em></p>
+
+
 # 📦 Main Features
 ✔️ Member registration and management
 ✔️ Subscription and payment management
